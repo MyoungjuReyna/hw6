@@ -3,9 +3,13 @@
 }
 #page1{
   background-color: lavender;
+  margin-left:100px;
+  margin-right: 100px;
 }
 #page2{
   background-color: lightcyan;
+  margin-left:100px;
+  margin-right: 100px;
 }
 
 
