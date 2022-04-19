@@ -58,6 +58,12 @@ h1{
     text-size:25px;
     left:60px;
   }
+
+  #relativethird {
+    position: relative;
+    text-size:25px;
+    left:100px;
+  }
   
   .whitebox {
     background-color: white;
