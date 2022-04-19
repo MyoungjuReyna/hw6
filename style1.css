@@ -1,1 +1,44 @@
-
+h1{
+    text-align: center;
+  }
+  
+  
+  #pagelink{
+    font-size:25px;  
+    text-align: center;
+  }
+  
+  img {
+    width: 300px;
+    height: 420px;  
+  }
+  
+  .netflix{
+    overflow:auto;
+    Margin:100px;
+  }
+  
+  .red{
+    float:right;
+  }
+  
+  #netflixtext{
+    font-size:25px;
+    color:red;
+    background-color:powderblue;
+    text-align: center;
+    
+    border-color: blue;
+    border-style: dotted;
+    border-width: 5px;
+    border-radius:12px;
+    padding:30px;
+    
+    
+  }
+  
+  .fency{
+    text-decoration-line:underline;
+    text-shadow: 2px 2px 4px #000000;
+    color:black;
+  }
