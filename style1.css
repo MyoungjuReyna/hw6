@@ -7,7 +7,6 @@ h1{
   
   
   #pagelink{
-    float: right;
     font-size:25px;  
     text-align: center;
   }
@@ -46,4 +45,24 @@ h1{
     text-decoration-line:underline;
     text-shadow: 2px 2px 4px #000000;
     color:black;
+  }
+
+
+  #relativeTop {
+    position: relative;
+    text-size:25px;
+    top: 25px;}
+    
+  #relativeleft {
+    position: relative;
+    text-size:25px;
+    left:60px;
+  }
+  
+  .whitebox {
+    background-color: white;
+    border: 2px black solid;
+    padding: 10px;
+    width: 300px;
+    height: 35px;
   }
